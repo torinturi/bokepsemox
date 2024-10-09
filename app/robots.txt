@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://bokepsemox.pages.dev/sitemap.xml
